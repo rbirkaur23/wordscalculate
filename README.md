@@ -1,2 +1,2 @@
 # wordscalculate
-Calculate number of words in the string.
+C program to calculate number of words in the string.
